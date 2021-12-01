@@ -1,3 +1,7 @@
+Please install npm before running project.
+
+
+
 Software Engineer Position @ CeADAR
 Technical Challenge  -
 
